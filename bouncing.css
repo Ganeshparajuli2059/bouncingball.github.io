@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    background-color: rgb(94, 138, 138);
+    overflow: hidden;
+}
+
+ball {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
